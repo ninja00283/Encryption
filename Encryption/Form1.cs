@@ -112,7 +112,7 @@ namespace Encryption
 
                 }
                 else{
-                    //error not text
+                    PathTextBox.Text = "Not a .txt file.";
                 }
 
             }
